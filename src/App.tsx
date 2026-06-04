@@ -5,11 +5,8 @@ import { QuickStart } from "./components/QuickStart";
 
 function App() {
   return (
-    <div className="min-h-screen">
-      <Hero />
-      <Features />
-      <QuickStart />
-      <Footer />
+    <div>
+      about me
     </div>
   );
 }
