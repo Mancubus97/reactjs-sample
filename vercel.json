@@ -1,0 +1,6 @@
+// Place this in the root of your project
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
